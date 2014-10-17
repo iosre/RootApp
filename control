@@ -1,0 +1,9 @@
+Package: com.naken.rootapp
+Name: RootApp
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: A theos example of running App as root
+Maintainer: snakeninny
+Author: snakeninny
+Section: Utilities
